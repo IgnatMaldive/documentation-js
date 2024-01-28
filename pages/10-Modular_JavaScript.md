@@ -14,8 +14,8 @@ This section introduces the different module systems in JavaScript, such as Comm
 Explanation: Building and bundling JavaScript code for optimization.
 Code Example:
 ```js copyjavascript
-*/ Using Webpack for bundling
-/* webpack.config.js
+//Using Webpack for bundling
+webpack.config.js
 const path = require('path');
 module.exports = {
   entry: './src/index.js',

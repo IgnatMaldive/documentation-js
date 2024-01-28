@@ -35,11 +35,11 @@ function memoize(fn) {
 Explanation: Introduction to design patterns and their use in JavaScript.
 Code Example:
 ```js copy
-*/ Singleton Pattern
+// Singleton Pattern
 const Singleton = (function() {
   let instance;
   function createInstance() {
-    /* Singleton logic
+    // Singleton logic
   }
   return {
     getInstance: function() {
@@ -59,12 +59,12 @@ const Singleton = (function() {
 Explanation: Common patterns for handling asynchronous operations.
 Code Example:
 ```js copy
-*/ Promises with Promise.all
+//Promises with Promise.all
 const promise1 = fetchData1();
 const promise2 = fetchData2();
 Promise.all([promise1, promise2])
   .then(results => {
-    /* Handle results
+    // Handle results
   });
 ```
 
