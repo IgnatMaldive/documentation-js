@@ -1,6 +1,14 @@
 {
   "index": "Introduction",
+  "02-Variables": "Variables",
+  "03-Data_Structures": "Data Structures",
+  "04-Control_Flow": "Control Flow",
   "05-Functions": "Functions",
+  "06-ObjectOriented_Programming": "Object Oriented Programming",
+  "07-Working_with_the_DOM": "Working with the DOM",
+  "08-Advanced_JavaScript_Concepts": "Advanced Concepts",
+  "09-Testing_and_Debugging": "Testing and Debugging",
+  "10-Modular_JavaScript": "Modular JavaScript",
   "about": {
     "title": "About",
     "type": "page"
